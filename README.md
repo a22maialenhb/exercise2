@@ -1,4 +1,4 @@
-#Example of table in HTML
+##Example of table in HTML
 
 The table has :
 
